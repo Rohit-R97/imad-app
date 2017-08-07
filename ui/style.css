@@ -21,7 +21,7 @@ body {
 }
 div{
    background:yellow;
-transition:width 3s, height 3s;
+transition:width 10s, height 10s;
 }
 div:hover{
     
