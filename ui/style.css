@@ -23,6 +23,7 @@ div{
    background:lightyellow;
    width:200px;
 transition:width 10s;
+text-align: center;
 }
 div:hover{
     
