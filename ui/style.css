@@ -20,7 +20,7 @@ body {
     height: 200px;
 }
 div{
-   background-color:yellow;
+   background:yellow;
 transition:width 3s, height 3s;
 }
 div:hover{
