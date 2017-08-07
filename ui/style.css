@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background:linear gradient(from bottom to top lightgrey ,black) ;
+    background:linear gradient(from bottom to top ,lightgrey ,black) ;
     margin-top: 75px;
 }
 
@@ -19,4 +19,12 @@ body {
 .img-medium {
     height: 200px;
 }
-
+div{
+   
+transition:width 3s, height 3s;
+}
+div:hover{
+    
+     width:20px;
+    height:30px;
+}
