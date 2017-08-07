@@ -21,10 +21,11 @@ body {
 }
 div{
    background:yellow;
+   width:200px;
 transition:width 10s;
 }
 div:hover{
     
-     width:20px;
+     width:500px;
     /*height:30px;*/
 }
