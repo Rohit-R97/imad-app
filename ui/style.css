@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: lightgrey;
+    background:linear gradient(from bottom to top lightgrey ,black) ;
     margin-top: 75px;
 }
 
