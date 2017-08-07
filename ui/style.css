@@ -20,7 +20,7 @@ body {
     height: 200px;
 }
 div{
-   background:yellow;
+   background:lightyellow;
    width:200px;
 transition:width 10s;
 }
